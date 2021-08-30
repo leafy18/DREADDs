@@ -1,2 +1,2 @@
-# DREADDs
-This project aims to create an open resource for all DREADD related studies (published & unpublished) such that the scientific community can refer for future experiments as well as contribute to the best of thier capabilities. This project will turn out to be extremently benificial for the community improving DREADD based experiments on NHP.
+# DREADDs Database (NHP)
+We intend to come up with a centralized database focusing on DREADD attempts on non human primate model. This collection is going to be very valuable for the scientific community using/ planning to use DREADDs in their research.
